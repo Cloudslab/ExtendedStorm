@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: multilang-javascript
+Implementation-Version: 1.0.2
+Archiver-Version: Plexus Archiver
+Built-By: tgoetz
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: multilang-javascript
+Implementation-Vendor-Id: org.apache.storm
+Created-By: Apache Maven 3.2.1
+Build-Jdk: 1.8.0_45
+Specification-Version: 1.0.2
+Implementation-Vendor: The Apache Software Foundation
+
